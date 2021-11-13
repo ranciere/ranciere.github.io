@@ -19,7 +19,7 @@ So, it is a piece of musical instrument that is automatized. From the system poi
 
 Traditionally these types of Master Clocks have some old-school User Interfaces from the 90s, with low-resolution monochrome character LCDs, physical buttons, etc.; and don't have remote control capabilities. As this development is for the coming years we wanted to break with this tradition, therefore, the remote capability became a key requirement. On the other hand, it is a very conservative market, the customers (mostly churches) don't want to depend on third-party service providers, and pay additional regular cloud costs; they require maximum independence and long-term solutions. 
 
-The two requirements (remote & no-cloud) can be met by a simple technical solution: the carillon's user interface should be Web-based. It doesn't seem too like too high expectation in 2021, right? (Of course, it requires some dynamic DNS, but it is much more mature and simple; even some of the LTE AP manufacturers provide it as an additional free service.)
+The two requirements (remote & no-cloud) can be met by a simple technical solution: _the carillon's user interface should be Web-based._ It doesn't seem too like too high expectation in 2021, right? (Of course, it requires some dynamic DNS, but it is much more mature and simple; even some of the LTE AP manufacturers provide it as an additional free service.)
 
 # System design
 
