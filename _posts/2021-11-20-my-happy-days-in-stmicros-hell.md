@@ -5,6 +5,8 @@ title:  "My happy days in STMicro's hell"
 
 # My sabbatical plans
 
+![Book logo](/docs/assets/images/carillon_system.png)
+
 This summer after fifteen years of hardworking as a developer/tech lead/manager in the embedded industry, I wanted to rest a bit. Nothing extra, just the common things: some recreational programming,  learning new things (Hi Zig!), teaching my daughter, hobby projects, AdventOfCode, cooking, etc. I discussed the details with my family, and I quit. I had big plans, a lot of free time and I was happy (I'm still) and curious. 
 
 During the notice period, my father contacted me with a business opportunity. He has a small company that works for churches: a tower clock and carillon manufacturer/installer firm. He wanted me to develop a new state-of-the-art carillon controller. It was just a perfect situation for me: I wanted to code again, and it was a real project not just art for art's sake.
