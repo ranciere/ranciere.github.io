@@ -1,2 +1,14 @@
 remote_theme: mmistakes/so-simple-theme
 search_full_content: true
+
+author:
+  name: Lajos Rancz
+  picture: /docs/assets/images/me_2021.jpeg
+  email: lajos.rancz@gmail.com
+  links:
+    - title: GitHub
+      url: https://github.com/ranciere/
+      icon: fab fa-github-square
+    - title: Linkedin
+      url: https://www.linkedin.com/in/rancz/
+      icon: fab fa-twitter-square
